@@ -131,7 +131,7 @@ def main():
     )
     
     st.markdown("<h1>House Price Prediction</h1>", unsafe_allow_html=True)
-    st.write("**By Saketh Yalamanchili**  \n[GitHub](https://github.com/sakethyalamanchili) | [LinkedIn](https://www.linkedin.com/in/saketh05/)")
+    st.write("**By Ridwan Oloriegbe**  \n[GitHub](https://github.com/blvckplug) |)
     st.markdown("##### **Welcome to the House Price Prediction App.**")
     
     # Preload the image
